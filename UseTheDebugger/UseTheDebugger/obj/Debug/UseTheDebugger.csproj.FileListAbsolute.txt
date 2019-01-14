@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\UseTheDebugger\UseTheDebugger\obj\Debug\UseTheDebugger.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\UseTheDebugger\UseTheDebugger\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\UseTheDebugger\UseTheDebugger\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\UseTheDebugger\UseTheDebugger\obj\Debug\UseTheDebugger_MarkupCompile.cache
+C:\Users\Administrator\source\repos\UseTheDebugger\UseTheDebugger\obj\Debug\UseTheDebugger_MarkupCompile.lref
